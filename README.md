@@ -7,13 +7,13 @@ The goal is to practice **data structures**, **algorithms**, and **problem-solvi
 
 ## 📖 Overview
 - Each solution is implemented in a way that balances **readability** and **efficiency**.
-- The repo is organized by **problem category** or **problem number** (depending on structure).
+- The repo is organized by **problem number**.
 - Solutions may include **multiple approaches** when applicable (brute force, optimized, etc.).
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python / Java / JavaScript _(update based on your solutions)_
+- **Languages:** Java 
 - **Tools:** LeetCode Online Judge, Local IDE
 
 ---
